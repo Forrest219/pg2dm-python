@@ -1,4 +1,4 @@
-# ch2 Collaborative Filtering
+I# ch2 Collaborative Filtering
 
 update: 2016-5-5
 
@@ -106,3 +106,5 @@ update: 2016-5-5
 
 	print(t)
 	print(sorted(t, key = lambda tTuple: tTuple[1], reverse = False))	#正序排列
+
+
